@@ -2,8 +2,8 @@
 Control Child Network, deny or allow IP and MAC
 go to juniper srx router by ssh , to active or deactive the black policy.
 go to unicom AP router by http , to active or deactive the balck wifi policy.
-## pls don't try to control for control,the key point is that children should be self disciplined and internally willing to reduce the use of electronic equipment.
-## Open up more interests, such as reading interesting books and doing interesting sports.
+* pls don't try to control for control,the key point is that children should be self disciplined and internally willing to reduce the use of electronic equipment.
+* Open up more interests, such as reading interesting books and doing interesting sports.
 
 
 
@@ -15,7 +15,7 @@ go to unicom AP router by http , to active or deactive the balck wifi policy.
 
 核心目的，还是把各个出口网络管控住。
 
-## 另外，手机上的sim卡，也要打电话给运营商，让把流量功能关闭了，要不手机、pad还可以用流量上网，也管控不了了。
+* 另外，手机上的sim卡，也要打电话给运营商，让把流量功能关闭了，要不手机、pad还可以用流量上网，也管控不了了。
 
-## 不要陷入为了管控而管控，核心还是要孩子自律，内发的愿意去减少电子设备的使用。
-## 开辟更多的兴趣点，比如读有意思的书，做有意思的运动。
+* 不要陷入为了管控而管控，核心还是要孩子自律，内发的愿意去减少电子设备的使用。
+* 开辟更多的兴趣点，比如读有意思的书，做有意思的运动。
